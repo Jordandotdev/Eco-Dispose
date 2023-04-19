@@ -1,1 +1,1 @@
-# Eco-Dispose
+# Eco-Dispose- This code contains several errors that are causing issues when trying to run it on VS Code. As we are currently first-year undergraduate students, we have not yet been introduced to Flutter and may not have the expertise to fix all the errors. Thank you.
